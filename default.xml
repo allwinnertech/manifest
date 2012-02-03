@@ -26,6 +26,7 @@
   <project path="device/samsung/maguro" name="device_samsung_maguro" />
   <project path="device/samsung/tuna" name="device_samsung_tuna" />
   <project path="device/ti/panda" name="device_ti_panda" />
+  <project path="device/softwinner/common" name="device_softwinner_common" />
   <project path="device/softwinner/crane-common" name="device_softwinner_crane-common" />
   <project path="device/softwinner/crane-aino" name="device_softwinner_crane-aino" />
   <project path="device/softwinner/crane-evb" name="device_softwinner_crane-evb" />
@@ -95,6 +96,7 @@
   <project path="external/libpng" name="platform_external_libpng" />
   <project path="external/libvpx" name="platform_external_libvpx" />
   <project path="external/libxml2" name="platform_external_libxml2" />
+  <project path="external/libyuv" name="platform_external_libyuv" />
   <project path="external/libxslt" name="platform_external_libxslt" />
   <project path="external/llvm" name="platform_external_llvm" />
   <project path="external/lohit-fonts" name="platform_external_lohit-fonts" />
