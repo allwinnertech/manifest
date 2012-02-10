@@ -28,6 +28,7 @@
   <project path="device/ti/panda" name="device_ti_panda" />
   <project path="device/softwinner/common" name="device_softwinner_common" />
   <project path="device/softwinner/crane-common" name="device_softwinner_crane-common" />
+  <project path="device/softwinner/crane-MID9742-sc3052" name="device_softwinner_crane-MID9742-sc3052" />
   <project path="device/softwinner/crane-aino" name="device_softwinner_crane-aino" />
   <project path="device/softwinner/crane-evb" name="device_softwinner_crane-evb" />
   <project path="docs/source.android.com" name="platform_docs_source.android.com" />
